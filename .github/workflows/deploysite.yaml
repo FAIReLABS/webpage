@@ -31,11 +31,10 @@ jobs:
       - uses: r-lib/actions/setup-r-dependencies@v1
         with:
           extra-packages: rmarkdown
-          # needs: website
+          needs: website
 
       - name: Build site
-        run: rmarkdown::render_site(encoding = 'UTF-8')
-        shell: Rscript {0}
+        run: R -e "rmarkdown::render_site(encoding = 'UTF-8')"
 
       - name: Deploy to GitHub pages 🚀
         if: github.event_name != 'pull_request'
