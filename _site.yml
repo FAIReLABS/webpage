@@ -1,0 +1,8 @@
+name: "FAIReLABS"
+navbar:
+  title: "FAIReLABS"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Vision"
+      href: vision.html
