@@ -28,13 +28,19 @@ jobs:
         with:
           use-public-rspm: true
 
-      - uses: r-lib/actions/setup-r-dependencies@v1
-        with:
-          extra-packages: rmarkdown local::.
-          needs: website
+      # - uses: r-lib/actions/setup-r-dependencies@v1
+      #   with:
+      #     extra-packages: rmarkdown local::.
+      #     needs: website
+      - name: Restore packages
+        shell: Rscript {0}
+        run: |
+          if (!requireNamespace("renv", quietly = TRUE)) install.packages("renv")
+          renv::restore()
 
       - name: Build site
-        run: R -e "rmarkdown::render_site(encoding = 'UTF-8')"
+        shell: Rscript {0}
+        run: rmarkdown::render_site(encoding = 'UTF-8')
 
       - name: Deploy to GitHub pages 🚀
         if: github.event_name != 'pull_request'
