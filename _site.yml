@@ -1,4 +1,5 @@
 name: "FAIReLABS"
+output_dir: "docs"
 navbar:
   title: "FAIReLABS"
   left:
