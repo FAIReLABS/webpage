@@ -30,7 +30,7 @@ jobs:
 
       - uses: r-lib/actions/setup-r-dependencies@v1
         with:
-          extra-packages: rmarkdown
+          extra-packages: rmarkdown local::.
           needs: website
 
       - name: Build site
