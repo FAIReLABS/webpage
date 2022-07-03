@@ -17,3 +17,7 @@ navbar:
       href: support.html
     - text: "Code of Conduct"
       href: conduct.html
+output:
+  html_document:
+    includes:
+      in_header: header.html
