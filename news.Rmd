@@ -1,0 +1,12 @@
+---
+title: "News"
+urlcolor: blue
+bibliography: FAIReLABS-plan.bib
+---
+
+</br>
+</br>
+
+### iRODS User Group Meeting, 7^th^ July 2022, Leuven
+
+*   Towards the FAIRification of lab-data, Martin Schobben

@@ -4,6 +4,9 @@ urlcolor: blue
 bibliography: FAIReLABS-plan.bib
 ---
 
+</br>
+</br>
+
 <p style="text-align: justify;">
 Data management and subsequent downstream recycling of data is increasingly seen as a primer for future innovation and new discoveries. Above all, good data management practices are critical to open science and an inclusive, connected worldwide academic community---providing opportunities for developing countries that do not have the same resources for data generation as wealthy countries. 
 </p>
@@ -17,7 +20,7 @@ The task of optimizing data management infrastructures can be especially dauntin
 </p>
 
 <p style="text-align: justify;">
-Low-level access to raw data and insights in workflows is not necessary for all scientist, it can be important for special purpose research questions and the reproducibility of published research. On top of that, many disciplines of natural sciences rely on field observations and on-site experiments besides laboratory output. All this data should ideally be standardized, integrated, and managed at one central point throughout the life cycle from raw, analysed, published to archived data.
+Low-level access to raw data and insights in workflows is not necessary for all scientist, but it can be important for special purpose research questions and the reproducibility of published research. On top of that, many disciplines of natural sciences rely on field observations and on-site experiments besides laboratory output. All this data should ideally be standardized, integrated, and managed at one central point throughout the life cycle from raw, analysed, published to archived data.
 </p>
 
 ## Solutions
@@ -33,19 +36,19 @@ Solutions to the previous cited problems can be addressed at three levels.
 ### Individual
 
 <p style="text-align: justify;">
-Training of scientist in how to manage their data effectively, and how to make their science reproducible, is a first step to improve open science practices of the community as a whole. These courses introduce the usage of metadata and standards for data management as well as practical and digital solutions to improve practices for secure storage and maintenance of data [@Briney2015].
+Training of scientist in how to manage their data effectively, and how to make their science reproducible, is a first step to improve open science practices of the community as a whole. This includes the usage of metadata and standards for data management as well as practical and digital solutions to improve practices for secure storage and maintenance of data [@Briney2015].
 </p>
 
 ### Institutes
 
 <p style="text-align: justify;">
-Providing support for open science solutions in the lab. This is achieved by evaluating existing on-premise laboratory and data management infrastructures and advice on how to implement, or upgrade to, a rigid, centralized structure than can accommodate automated data ingestion from various devices and/or manual entries. 
+Providing support for open science solutions in the lab. This is achieved by evaluating existing laboratory and data management infrastructures and develop strategies on how to upgrade to, a rigid, centralized structure that can accommodate automated data ingestion from various sources. 
 </p>
 
 ### Universally
 
 <p style="text-align: justify;">
-In addition, through active development of new solutions for data retrieval, harmonization and management tools as well as transparent, customizable and shareable workflows that can replace vendor supplied software for data processing, analysing and diagnostics. These solutions will be developed based upon solid research of existing practices and workflow routines, and by identifying common bottlenecks that prevent data from being FAIR, and workflows from being reproducible.
+Universal solutions can be achieved through active development of data retrieval and harmonization tools, and the creation of transparent, customizable and shareable workflows, that can replace vendor supplied software for data processing, analyzing and diagnostics. These solutions should be based upon solid research of existing practices and workflow routines, and by identifying common bottlenecks that prevent data from being FAIR, and workflows from being reproducible.
 </p>
 
 ----

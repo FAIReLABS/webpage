@@ -1,0 +1,17 @@
+---
+title: "The Data Lifecycle"
+urlcolor: blue
+bibliography: FAIReLABS-plan.bib
+---
+
+</br>
+</br>
+
+Pleas support our cause by actively contributing to this project. We welcome all types of input ranging from theoretical to practical solutions to problems faced while making laboratory data FAIR.
+
+</br>
+</br>
+
+## Contact the FAIReLABS Team
+
+email:

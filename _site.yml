@@ -7,3 +7,11 @@ navbar:
       href: index.html
     - text: "Vision"
       href: vision.html
+    - text: "Team"
+      href: team.html
+    - text: "News"
+      href: news.html
+    - text: "Support"
+      href: support.html
+    - text: "Code of Conduct"
+      href: conduct.html
