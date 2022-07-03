@@ -23,8 +23,6 @@ The task of optimizing data management infrastructures can be especially dauntin
 Low-level access to raw data and insights in workflows is not necessary for all scientist, but it can be important for special purpose research questions and the reproducibility of published research. On top of that, many disciplines of natural sciences rely on field observations and on-site experiments besides laboratory output. All this data should ideally be standardized, integrated, and managed at one central point throughout the life cycle from raw, analysed, published to archived data.
 </p>
 
-## Solutions
-
 Solutions to the previous cited problems can be addressed at three levels. 
 
 1) Raising awareness for good open science practices, and its merits for inclusiveness, at the level of the ***individual***    
@@ -33,7 +31,7 @@ Solutions to the previous cited problems can be addressed at three levels.
 
 </br>
 
-### Individual
+### Individuals
 
 <p style="text-align: justify;">
 Training of scientist in how to manage their data effectively, and how to make their science reproducible, is a first step to improve open science practices of the community as a whole. This includes the usage of metadata and standards for data management as well as practical and digital solutions to improve practices for secure storage and maintenance of data [@Briney2015].

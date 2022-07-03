@@ -7,6 +7,8 @@ navbar:
       href: index.html
     - text: "Vision"
       href: vision.html
+    - text: "Solutions"
+      href: solutions.html      
     - text: "Team"
       href: team.html
     - text: "News"
