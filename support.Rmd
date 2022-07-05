@@ -7,11 +7,19 @@ bibliography: FAIReLABS-plan.bib
 </br>
 </br>
 
-Pleas support our cause by actively contributing to this project. We welcome all types of input ranging from theoretical to practical solutions to problems faced while making laboratory data FAIR.
+Pleas support our cause by becoming a member of our GitHub organization. We welcome all types of input ranging from theoretical to practical solutions to problems faced while making laboratory data FAIR.
 
 </br>
 </br>
 
 ## Contact the FAIReLABS Team
 
-email:
+
+<style type="text/css">
+span.protect {display:none;}
+</style>
+
+<p>email:
+fairelabs<span class="protect">somethingelse</span>`@`gmail.com
+</p>
+
