@@ -1,5 +1,6 @@
 ---
 title: |
+  <p hidden>FAIReLABS</p>
   <p align="center">
   ![](fairelabs.png){width=40%}      
   </br>
