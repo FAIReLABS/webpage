@@ -1,11 +1,9 @@
 ---
-title: |
-  <p hidden>FAIReLABS</p>
-  <p align="center">
-  ![](fairelabs.png){width=40%}      
-  </br>
-  Integrated lab solutions for an open science lab  
-  </p>     
+title: 
+output:
+  html_document:
+    includes:
+      before_body: logo.html
 ---
 
 </br>
