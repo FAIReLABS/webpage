@@ -1,13 +1,12 @@
 ---
-title: 
+title: "<span style='color:transparent'>FAIReLABS</span>" 
 output:
   html_document:
     includes:
       before_body: logo.html
 ---
 
-</br>
-</br>
+
 
 <p style="text-align: justify;">
 It is our mission to stimulate innovation and inclusiveness in natural sciences by helping academics to make their laboratory data: Findable, Accessible, Interoperable, and Reusable (FAIR). In addition to supporting research data management, we aim to make the workflow from raw data to processed data more transparent, accessible, and customizable.
